@@ -24,7 +24,7 @@ import org.springframework.validation.annotation.Validated;
 import org.springframework.web.bind.annotation.*;
 
 @Tag(
-        name = "CRUD REST APIs for moonstone (Pvt)Ltd",
+        name = "CRUD REST APIs for Moonstone (Pvt)Ltd",
         description = "Vajira's Account microservice to CREATE,UPDATE,DELETE and FETCH account details"
 )
 @RestController
